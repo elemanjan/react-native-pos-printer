@@ -1,5 +1,5 @@
 {
-  "name": "@bencomtech/react-native-pos-printer",
+  "name": "@elemanjan/react-native-pos-printer",
   "version": "1.0.1",
   "description": "test",
   "main": "lib/commonjs/index",
@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/bencomtech/react-native-pos-printer",
+  "repository": "https://github.com/elemanjan/react-native-pos-printer",
   "author": "bencomtech <bencomtech@gmail.com> (https://github.com/bencomtech)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bencomtech/react-native-pos-printer/issues"
   },
-  "homepage": "https://github.com/bencomtech/react-native-pos-printer#readme",
+  "homepage": "https://github.com/elemanjan/react-native-pos-printer#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
